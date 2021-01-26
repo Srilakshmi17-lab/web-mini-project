@@ -1,0 +1,155 @@
+ body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url("background.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #DADADB !important;
+   }
+    
+.fixed-top{
+    display:inline-block !important;
+    margin-top: 2%;
+}
+
+.nav_button{
+    float: right !important;
+    display: inline-block !important; 
+}
+
+#login,#signup{
+    border-radius: 20px;
+}
+
+#nav_btn{
+    margin-right: 5px !important;
+}
+
+.content{
+    margin-left: 50%;
+    margin-top: 10%;
+}
+
+.art{
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 0%;
+    
+}
+
+.gallery{
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+    font-size: 170px;
+}
+
+
+.loginform{
+    position: absolute;
+    margin-left: 5%;
+    text-align: center;
+    visibility: hidden;
+
+}
+
+.loginform input{
+
+    width:250px;
+    margin-top: 10%;
+    color: #212121;
+}
+
+.signupform input{
+
+    width:250px;
+    margin-top: 10%;
+    color: #212121;
+}
+
+.signupform{
+    margin-left: 5%;
+    position: absolute;
+    text-align: center;
+    visibility: hidden;
+}
+
+#login_submit,#signup_submit{
+    color: white;
+    border-radius: 20px;;
+}
+
+.aboutus{
+    visibility:visible;
+}
+
+.ramya{
+    display: inline-block;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+
+#ramyatext{  
+    display: inline-block;
+    width: 40%;
+}
+#ramya_image{
+    margin-top: -10%;
+    margin-left: 10%;
+    border-radius: 200px;
+}
+
+#sindu_image{
+    display: inline-block;
+    border-radius: 200px;
+    margin-top: -7%;
+    
+}
+
+.sindu{
+    text-align:justify;
+    display: inline-block;
+}
+#sindutext{
+    width: 40%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+span{
+    font-size: 25px;
+    font-weight: bold;
+    color:#212121;
+}
+
+#gender_field{
+    font-size: 16px !important;
+    
+    font-weight:normal !important;
+    float: left !important;
+
+}
+
+select{
+    width: 170px;
+    float: right !important;
+}
+
+#profilepic_lable{
+    float: left !important;
+}
+
+#radiobutton{
+    width: 20px !important;
+    margin-left: opx !important;
+    margin-right: 0px !important;
+    margin-top: -3% !important;
+}
+
+#yesno{
+    font-size: 16px !important;
+    font-weight:normal !important;
+    float: left !important;
+
+}

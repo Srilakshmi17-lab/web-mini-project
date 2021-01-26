@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins' !important;
+}
+.container{
+    width: 80% !important;
+}
+#imagecell{
+margin-top: 2%;
+text-align: center;
+}
+.open_image{
+    text-align: center !important;
+    width: 1080px !important;
+    height: auto !important;
+}
+
+.image_description{
+    margin-top: 2% !important;
+    float:left !important;
+}
+
+tr{
+width: 100% !important;
+}
+
+#conta{
+    width: 1080px !important;
+    display: -webkit-inline-box !important;
+}
+#img_desc{
+    width: 100%;
+    float:left !
+}
+
+#img_like{
+    font-size: 25px !important;
+    font-weight: bold !important;
+}
+
+#like_button{
+    
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    font-size: 30px;
+    color: red;
+}
+
+.glyphicon glyphicon-arrow-left{
+    width: 20px !important;
+height: auto !important;
+}
+
+#back_button{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    margin-top: 2% !important;
+    position: fixed !important;
+}
+    
+#backbuttonimg{
+    width: 25px !important;
+    height: auto !important;
+}
+
+#comment_label{
+    margin-top: 12% !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+
+#empty_image{
+    margin-top: 6% !important;
+    text-align: center !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+}
+
+#comm_btn{
+    background:#3b5998;
+    padding:4px;
+    color:white; 
+    float:right !important;
+    margin-top: 1%;
+    margin-right: 3% !important;
+
+}
+
+
+
+#commentss{
+    margin-top: 2% !important;
+}
+
+#comment_by{
+
+    font-size: 16px !important;
+    font-weight: bold !important;
+}
+
+#comment_data{
+    margin-top: 2% !important;
+
+}
